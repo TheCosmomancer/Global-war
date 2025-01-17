@@ -19,6 +19,6 @@ After passing the marching phase , the current player draws a card if they captu
 The game ends when a player controls 25 or more countries or cease fire is drawn. Winner is announced , the scoreboard is updated and players are prompted to go back to the main menu.
 ## License
 
-published under the [MIT](https://choosealicense.com/licenses/mit/) License.
+Published under the [MIT](https://choosealicense.com/licenses/mit/) License.
 ## Music
 The music used in the game is [The sun falls](https://pixabay.com/music/build-up-scenes-the-sun-falls-149603/) by "[LorenzooCs](https://pixabay.com/users/lorenzoocs-36307647/)" via [Pixabay](https://pixabay.com/).
